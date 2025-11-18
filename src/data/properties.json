@@ -1,0 +1,165 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom semi-detached family home.",
+      "longDescription": "Situated within 0.5 miles of Petts Wood station with fast trains to London. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. Features double glazing, gas central heating and a well presented interior.",
+      "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+      "picture": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+      "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/06145940/What-is-a-floor-plan-with-dimensions.png",
+      "images": [
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg",
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/1909791/pexels-photo-1909791.jpeg",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url": "properties/prop1.html",
+      "added": { "month": "October", "day": 12, "year": 2022 }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout.",
+      "longDescription": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors.",
+      "location": "Crofton Road Orpington BR6",
+      "picture": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
+      "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/06150346/2-Bedroom-Home-Plan-With-Dimensions.png",
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/6588582/pexels-photo-6588582.jpeg",
+        "https://images.pexels.com/photos/1358912/pexels-photo-1358912.jpeg",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url": "properties/prop2.html",
+      "added": { "month": "September", "day": 14, "year": 2022 }
+    },
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 650000,
+      "tenure": "Freehold",
+      "description": "Spacious family home with garage.",
+      "longDescription": "Detached 4-bedroom property with a double garage and spacious driveway. Includes a study room and large conservatory.",
+      "location": "High Street, Bromley BR1",
+      "picture": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
+      "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/06092202/800x600-26-768x576.jpg",
+      "images": [
+        "https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600573472592-401b489a3cdc?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+        "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url": "properties/prop3.html",
+      "added": { "month": "January", "day": 20, "year": 2023 }
+    },
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms": 1,
+      "price": 275000,
+      "tenure": "Leasehold",
+      "description": "Modern apartment near station.",
+      "longDescription": "A sleek one-bedroom flat perfect for commuters. Features open plan living and a balcony.",
+      "location": "Station Road, Sidcup DA15",
+      "picture": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80",
+      "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/05101939/Floor-plan-with-total-area-measurement-768x538.png",
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg",
+        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/6585755/pexels-photo-6585755.jpeg",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url": "properties/prop4.html",
+      "added": { "month": "March", "day": 5, "year": 2023 }
+    },
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms": 5,
+      "price": 950000,
+      "tenure": "Freehold",
+      "description": "Luxury detached home with pool.",
+      "longDescription": "Stunning 5-bedroom home with a heated swimming pool and cinema room. Located in a private gated road.",
+      "location": "Chislehurst Road, Chislehurst BR7",
+      "picture": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+      "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/05101939/Floor-plan-with-total-area-measurement-768x538.png",
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600573472592-401b489a3cdc?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/8134780/pexels-photo-8134780.jpeg"
+      ],
+      "url": "properties/prop5.html",
+      "added": { "month": "December", "day": 10, "year": 2022 }
+    },
+    {
+      "id": "prop6",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 425000,
+      "tenure": "Leasehold",
+      "description": "Penthouse with city views.",
+      "longDescription": "Top floor apartment with panoramic views. Concierge service and underground parking included.",
+      "location": "London Road, Bromley BR1",
+      "picture": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
+      "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/06145940/What-is-a-floor-plan-with-dimensions.png",
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/245240/pexels-photo-245240.jpeg",
+        "https://images.pexels.com/photos/3935352/pexels-photo-3935352.jpeg",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url": "properties/prop6.html",
+      "added": { "month": "February", "day": 15, "year": 2023 }
+    },
+    {
+      "id": "prop7",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 550000,
+      "tenure": "Freehold",
+      "description": "Victorian terrace with character.",
+      "longDescription": "Charming 3-bed terrace with original fireplaces and stripped wood floors. Close to local schools.",
+      "location": "Homesdale Road, Bromley BR2",
+      "picture": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=80",
+      "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2021/12/28150906/2d-to-3d-floor-plan-of-a-house.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/2416932/pexels-photo-2416932.jpeg",
+        "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/17489485/pexels-photo-17489485.jpeg",
+        "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url": "properties/prop7.html",
+      "added": { "month": "November", "day": 1, "year": 2022 }
+    }
+  ]
+}
